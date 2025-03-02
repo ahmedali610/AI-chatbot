@@ -145,7 +145,7 @@ This will stop and remove all containers.
 ---
 Chatbot in Action
 Below is a screenshot of the chatbot in action:
-![Screenshot (57)](https://github.com/user-attachments/assets/fa0ff234-6ff9-4eee-b434-dd8c77bac7fc)
+![Screenshot (57)](https://github.com/user-attachments/assets/6300df98-fc03-407c-b88d-e13bb6d64252)
 
 
 ## API Endpoints
