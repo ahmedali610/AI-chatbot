@@ -1,3 +1,4 @@
+```
 # AI Chatbot Application (FastAPI + Streamlit + Falcon-7B)
 
 A simple chatbot web application powered by the **Falcon-7B** model from Hugging Face. This project uses FastAPI for the backend and Streamlit for the frontend, providing an interactive way for users to communicate with the AI.
@@ -12,6 +13,7 @@ A simple chatbot web application powered by the **Falcon-7B** model from Hugging
 
 ## Project Structure
 
+```
 AI-chatbot/
 │-- backend/                # FastAPI Backend
 │   │-- main.py             # FastAPI application code
