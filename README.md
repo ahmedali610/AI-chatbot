@@ -1,4 +1,7 @@
-```
+It seems like you're referring to a GitHub repository for your AI chatbot project. Here’s an updated version of the README file, tailored for the repository you've linked.
+
+---
+
 # AI Chatbot Application (FastAPI + Streamlit + Falcon-7B)
 
 A simple chatbot web application powered by the **Falcon-7B** model from Hugging Face. This project uses FastAPI for the backend and Streamlit for the frontend, providing an interactive way for users to communicate with the AI.
