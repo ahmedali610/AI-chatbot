@@ -143,6 +143,10 @@ docker-compose down
 This will stop and remove all containers.
 
 ---
+Chatbot in Action
+Below is a screenshot of the chatbot in action:
+![Screenshot (57)](https://github.com/user-attachments/assets/fa0ff234-6ff9-4eee-b434-dd8c77bac7fc)
+
 
 ## API Endpoints
 
