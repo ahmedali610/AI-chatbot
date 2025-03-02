@@ -1,1 +1,7 @@
-
+fastapi
+uvicorn
+python-dotenv
+requests
+langdetect
+huggingface_hub 
+python-dotenv
