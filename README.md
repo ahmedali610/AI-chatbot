@@ -1,5 +1,3 @@
-Here is the full README in Markdown format:
-
 ```markdown
 # AI Chatbot Application (FastAPI + Streamlit + Falcon-7B)
 
