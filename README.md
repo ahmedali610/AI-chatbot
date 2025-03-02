@@ -212,11 +212,3 @@ Contributions are welcome! Feel free to fork this project, open issues, and subm
 3. Make your changes
 4. Open a pull request with a detailed description of your changes
 
----
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
-```
-
-Just copy and paste this into your `README.md` file in your GitHub repository, and you’ll have a nicely formatted Markdown document!
