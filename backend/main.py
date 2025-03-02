@@ -19,7 +19,7 @@ app = FastAPI()
 
 # Store chat history
 chat_histories: Dict[str, List[Dict[str, str]]] = {}
-MAX_HISTORY = 5  # Reduce history to avoid excessive repetition
+MAX_HISTORY = 20  # Reduce history to avoid excessive repetition
 
 # Define request model
 class ChatRequest(BaseModel):
